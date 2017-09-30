@@ -7,4 +7,5 @@
     d = diff
     o = checkout
     st = status
-    
+    p = pull
+    ps = push    
