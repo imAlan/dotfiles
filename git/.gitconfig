@@ -1,0 +1,10 @@
+[core]
+	editor = vim
+[alias]
+    a = add
+    b = branch
+    c = commit
+    d = diff
+    o = checkout
+    st = status
+    
