@@ -1,3 +1,6 @@
+[user]
+	name = Alan Chen
+	email = alanchen@nyu.edu
 [core]
 	editor = vim
 [alias]
@@ -8,4 +11,6 @@
     o = checkout
     st = status
     p = pull
-    ps = push    
+    ps = push
+    au = add -u   
+	lola = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
